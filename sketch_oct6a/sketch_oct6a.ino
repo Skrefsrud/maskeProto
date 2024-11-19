@@ -94,7 +94,7 @@ void loop() {
     // Toggle LED state
     ledState = !ledState;
     digitalWrite(ledPin, ledState);
-  }
+  } 
 
   // You can add other tasks here
 }
